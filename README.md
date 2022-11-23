@@ -2,7 +2,7 @@
 
 #### I'm Sanyam
 
-I am a 👨‍💻 **DevOps Consultant** . I am interested in **DevOps**, **Cloud**, **Programming**, **Blogging**, **Digital Marketing**, **Wordpress Development**, **Seacrh Engine Optimization**, **C++**. 
+I am a 👨‍💻 **DevOps Trainee** . I am interested in **DevOps**, **Cloud**, **Programming**, **Blogging**, **Digital Marketing**, **Wordpress Development**, **Seacrh Engine Optimization**, **C++**. 
 ### 📫 How to reach me
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyamkalra/)
