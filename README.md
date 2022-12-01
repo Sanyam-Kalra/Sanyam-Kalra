@@ -9,6 +9,9 @@ I am a 👨‍💻 **DevOps Trainee** . I am interested in **DevOps**, **Cloud**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyamkalra2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/travelwithchill/)
 
+![Sanyam's Github Stats](https://github-readme-stats.vercel.app/api?username=Sanyam-Kalra&show_icons=true&theme=radical) &nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam-Kalra&layout=compact&langs_count=6)](https://github.com/Sanyam-Kalra/github-readme-stats)
+
 ### 🔭 I’m currently working on ...
 
 <a href="#"><img height="32" width="32" src="./kubernetes.svg" alt="Kubernetes" title="Kubernetes" /></a>
